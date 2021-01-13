@@ -1,15 +1,14 @@
 # _Calculator_
 
-#### _A calculator made with JavaScript to do simple arithmetic_
+#### _A calculator to do simple arithmetic, made with JavaScript._
 
-#### By _**Louie**_
+#### By _**Louie Schoenknecht**_
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
 * _JavaScript_
-* _Markdown_
 
 ## Description
 
